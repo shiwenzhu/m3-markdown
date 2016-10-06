@@ -8,4 +8,14 @@ A `heading` with the name of the command
 An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
+#rm#
+The <rm> command can be used to _delete_ a `file`. For example:
+
+<rm README.md>
+
+Here's some more information about <rm>:
+
+1. <rm> can only be used in delete file.
+2. Sometimes it just does not work.
+
 See `complete` branch for answers.
